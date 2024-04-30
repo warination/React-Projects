@@ -1,0 +1,10 @@
+.container {
+  display: flex !important;
+  justify-content: space-between !important;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.listBgColor {
+  background-color: rgb(169, 182, 162) !important;
+}
