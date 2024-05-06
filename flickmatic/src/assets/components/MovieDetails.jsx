@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Loader from "./Loader";
 
-const KEY = "769fa54f";
+const KEY = "_________";
 
 const MovieDetails = ({ selectedId, onCloseMovie }) => {
   const [movie, setMovie] = useState({});
